@@ -1,0 +1,31 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "Namaste React by akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "akshay",
+    "saini",
+    "Namaste",
+    "React"
+  ],
+  "author": "shakti kumar",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.1"
+  }
+}
